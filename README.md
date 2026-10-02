@@ -33,8 +33,6 @@ I'm building my skills in data analytics and working on practical projects to tu
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 - GitHub: [@swapnish07-gif](https://github.com/swapnish07-gif)
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/swapnish-thengal-319bb6376/)
 
