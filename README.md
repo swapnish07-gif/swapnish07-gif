@@ -35,7 +35,7 @@ I'm building my skills in data analytics and working on practical projects to tu
 
 - LinkedIn: Add your LinkedIn profile link here
 - GitHub: [@swapnish07-gif](https://github.com/swapnish07-gif)
-
+- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
 ---
 
 ⭐ Thanks for visiting my profile!
