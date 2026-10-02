@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Swapnish 👋
 
-<!--
-**swapnish07-gif/swapnish07-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst 📊
 
-Here are some ideas to get you started:
+I'm building my skills in data analytics and working on practical projects to turn data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- MIS Reporting
+
+## 📂 Projects
+
+- Hospital Data Analysis — Excel
+- Personal Expense Analysis — Excel
+- SQL Data Analysis Projects
+- Power BI Dashboards
+
+## 🎯 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Python for Data Analysis
+- Data Analytics
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile link here
+- GitHub: [@swapnish07-gif](https://github.com/swapnish07-gif)
+
+---
+
+⭐ Thanks for visiting my profile!
